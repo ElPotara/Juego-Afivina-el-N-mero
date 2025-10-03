@@ -27,7 +27,3 @@ Es más que un juego: es una forma divertida de entrenar tu lógica, entender la
     ```bash
     python adivina_el_numero.py
     ```
-
-### 🎬 Mira cómo Funciona
-
-Una partida podría verse así:
